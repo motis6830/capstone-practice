@@ -1,4 +1,4 @@
-print("종설1 프로젝트 화이팅!")
+print("A팀원: 프로젝트 다들 대박납시다!")
 print("내 컴퓨터에서 수정한 코드입니다.")
 def login(user_id, password):
     print(f"{user_id} 로그인 성공")
