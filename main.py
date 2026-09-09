@@ -4,3 +4,6 @@ print("내 컴퓨터에서 수정한 코드입니다.")
 def login(user_id, password):
     print(f"{user_id} 로그인 성공")
     return True
+def signup(user_id, password):
+    print(f"{user_id} 님 회원가입이 완료되었습니다.")
+    return True
